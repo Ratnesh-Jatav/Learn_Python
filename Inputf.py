@@ -1,0 +1,5 @@
+b = int(input("Enter another number: "))
+a = int(input("Enter a number: "))
+print("The Input A: ", a)
+print("The Input B: ", b)
+print("The Sum is: ", a + b)
