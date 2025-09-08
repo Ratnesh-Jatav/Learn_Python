@@ -1,2 +1,3 @@
-
-m5 = int(input("Enter marks 5: "));
+s = set()
+n = input("Enter Your numbers :")
+s.add(int(n))
