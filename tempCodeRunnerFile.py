@@ -1,3 +1,3 @@
-s = set()
-n = input("Enter Your numbers :")
-s.add(int(n))
+
+
+a = func("John", "Doe");
