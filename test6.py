@@ -43,7 +43,7 @@ def pattrern(n):
        return
    print('*'*n)
    pattrern(n-1)    
-pattrern(3)
+pattrern(3) 
 '''
 
 # Q5 Write a python program which converts inches to cms.
