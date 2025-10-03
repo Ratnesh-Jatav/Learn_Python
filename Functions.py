@@ -45,3 +45,17 @@ def factorial(n):
 num = int(input("Enter a number :"))
 print("Factorial of", num, "is", factorial(num))
 '''
+
+
+#More Examples
+
+def len():
+   # print("Length of list is ", end="")
+    list1.len();
+    return "Done"
+# a = len()
+# print(a)
+len()
+list1 = [1, 2, 3, 4, 5]
+
+

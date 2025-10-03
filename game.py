@@ -21,11 +21,10 @@ else:
         
     elif computer == 1 and user == 0:
         print("You Lose")
-        
     elif computer == 0 and user == -1:
         print("You Lose")
         
     elif computer == 0 and user == 1:
         print("You Win")
     else:
-        print("Invalid Input")
+        print("Invalid Input") 
